@@ -1,4 +1,4 @@
--- Create an Automated Feature Generation Procedure
+-- Create an Automated Feature Generation Procedure 
 CREATE OR REPLACE PROCEDURE refresh_ml_feature_store()
 LANGUAGE plpgsql
 AS $$
