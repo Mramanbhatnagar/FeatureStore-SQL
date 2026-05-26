@@ -1,4 +1,4 @@
--- Seed Users
+-- Seed Users 
 INSERT INTO users (signup_date, country, age_group) VALUES
 ('2026-01-01 10:00:00', 'US', '25-34'),
 ('2026-02-15 14:30:00', 'CA', '18-24'),
