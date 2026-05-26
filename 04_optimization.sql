@@ -1,4 +1,4 @@
--- 1. Create a Composite Index optimized for time-series window slicing
+-- 1. Create a Composite Index optimized for time-series window slicing 
 CREATE INDEX idx_clickstream_user_time 
 ON clickstream_events (user_id, timestamp, event_type);
 
