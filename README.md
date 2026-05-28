@@ -15,8 +15,7 @@ The Initialization script into The GitHub repository as 01_schema.sql.
 03_feature_pipeline.sql. Script contains the logic.
 ## AI Query Optimization File
 04_optimization.sql AI models require low-latency feature fetching. This shows how to build fast tables.
-## GitHub Repository File Structure Structure
-# Organise your repository like this:text
+## File Structure
 ├── Scripts
 
 │   ├── 01_schema.sql
